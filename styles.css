@@ -1,0 +1,97 @@
+
+h1{
+    text-align: center;
+    color:royalblue;
+    font-size: 65px;
+    font-family: 'Oswald', sans-serif;
+
+
+
+}
+
+nav{
+    
+    background-color: skyblue;
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.home{
+
+
+}
+.latestpost{
+
+
+}
+.aboutme{
+
+}
+
+li {
+    display: inline-block;
+    position: relative;
+
+
+   
+}
+
+.mainpic {
+height: 350px;
+width: 100%;
+
+}
+
+p {
+
+    text-align: center;
+    
+    
+    
+}
+figure{
+  border: 1px solid white;
+  
+  
+  
+  
+}
+
+figcaption {
+  border: 8px solid royalblue;
+  background-color: white;
+  color: black;
+  text-align: center;
+height: 100%;
+width: 50%;
+margin: auto;
+padding-top: 12px;
+padding-bottom: 10px;
+
+}
+
+p {
+    font-family: 'Inconsolata', monospace;
+}
+
+.cta{
+font-family: 'Oswald', sans-serif;
+text-decoration: none;
+background-color: royalblue;
+border: 2px solid black;
+border-radius: 20px;
+padding: 12px;
+margin-top: 10px;
+margin-bottom: 10px;
+display: inline-block;
+
+    
+}
+
+footer {
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    justify-content: flex-end;
+}
